@@ -1,10 +1,10 @@
 {
-  "version": 1,
-  "banned": [
+  "Version": 1,
+  "Banned": [
     {
-      "hwid": "EE4C421CB031087DF6E824ED3C78CEC401CAADC9BBDDFCDDE4BBC87174AE4287",
-      "bannedAt": "2026-09-14T10:18:11Z",
-      "reason": "Test HWID ban"
+      "Hwid": "EE4C421CB031087DF6E824ED3C78CEC401CAADC9BBDDFCDDE4BBC87174AE4287",
+      "BannedAt": "2026-09-14T10:20:32.6678531Z",
+      "Reason": "Ban verdict from collector"
     }
   ]
 }
