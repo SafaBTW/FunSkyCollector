@@ -1,1 +1,10 @@
-
+{
+  "Version": 1,
+  "Banned": [
+    {
+      "Hwid": "EE4C421CB031087DF6E824ED3C78CEC401CAADC9BBDDFCDDE4BBC87174AE4287",
+      "BannedAt": "2026-09-14T14:19:53.9164842Z",
+      "Reason": "Ban verdict from collector"
+    }
+  ]
+}
